@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>一个使用的插件网</title>
+    <link href="/2021/09/05/%E4%B8%80%E4%B8%AA%E5%AE%9E%E7%94%A8%E7%9A%84%E6%8F%92%E4%BB%B6%E7%BD%91/"/>
+    <url>/2021/09/05/%E4%B8%80%E4%B8%AA%E5%AE%9E%E7%94%A8%E7%9A%84%E6%8F%92%E4%BB%B6%E7%BD%91/</url>
+    
+    <content type="html"><![CDATA[<p>——-以下为正文</p><p>之前在互联网冲凉发现一个页面简洁实用的插件网，所以自行记录在自己的博客上</p><p><a href="https://imgtu.com/i/hgLbyq"><img src="https://z3.ax1x.com/2021/09/04/hgLbyq.png" alt="hgLbyq.png"></a></p><p><a href="https://chrome.zzzmh.cn/">极简插件</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>推荐</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>windows更换系统字体</title>
+    <link href="/2021/09/03/windows%E6%9B%B4%E6%8D%A2%E7%B3%BB%E7%BB%9F%E5%AD%97%E4%BD%93/"/>
+    <url>/2021/09/03/windows%E6%9B%B4%E6%8D%A2%E7%B3%BB%E7%BB%9F%E5%AD%97%E4%BD%93/</url>
+    
+    <content type="html"><![CDATA[<p>以下是正文——-</p><p style="text-align:center">Windows10怎么修改系统默认字体</p>先下载一个字体文件（ttf、ttc之类的）<p>用Windows字体查看器打开并安装</p><p>用Win+R打开运行，输入cmd，回车</p><p>输入Regedit，打开注册表编辑器</p><p>依次打开HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts<br>如若找不到自己安装的字体，可以使用regedit的查找功能</p><p>如我安装了xxxx字体，名字叫Minecraft AE Pixel (TrueType)右键修改，把选中部分复制下来</p><p>把刚才复制的东西粘贴进来(把”msyh.ttc”换掉)</p><p>重启电脑，字体是不是变了如果想改回去，重复刚才的步骤，把Microsoft YaHei &amp; Microsoft YaHei UI (TrueType)修改回msyh.ttc就行了。</p><p>参考了文献如下:<br><a href="https://jingyan.baidu.com/article/f25ef254a521b9482c1b822c.html">https://jingyan.baidu.com/article/f25ef254a521b9482c1b822c.html</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>windows</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>youtube-dl工具使用</title>
+    <link href="/2021/09/03/youtube-dl%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/"/>
+    <url>/2021/09/03/youtube-dl%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/</url>
+    
+    <content type="html"><![CDATA[<p>以下是正文—–<br>1.下载python最新版本并安装，选择添加到PATH<br>2.下载ffmpeg最新版本并解压，在控制面板-&gt;高级系统设置-&gt;环境变量-&gt;PATH里添加解压之后的bin文件夹路径（可以不下载）<br>3.如果你是 macOS 用户，也可以使用：</p><p>brew install youtube-dl</p><p>4.youtube-dl –proxy 127.0.0.1:1087  这个是代理格式，根据自己要求更改</p><p>下载链接格式：youtube-dl ‘<a href="http://www.bilibili.com/video/avxxxxxxx/&#39;">http://www.bilibili.com/video/avxxxxxxx/&#39;</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>视频下载工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>new</title>
+    <link href="/2021/09/03/new/"/>
+    <url>/2021/09/03/new/</url>
+    
+    <content type="html"><![CDATA[<p><a href="https://imgtu.com/i/hylYzn"><img src="https://z3.ax1x.com/2021/09/03/hylYzn.jpg" alt="hylYzn.jpg"></a></p><p>活着好难</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>心情，生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>部署github遇到的问题</title>
+    <link href="/2021/08/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <url>/2021/08/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<p>部署github两大问题<br>dp：后留意空格<br>https不行的话改git<br>branch：main</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
